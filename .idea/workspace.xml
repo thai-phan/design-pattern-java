@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/singleton/Junior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/singleton/Singleton.java" afterDir="false" />
-    </list>
+    <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="add item" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Singleton$LazyInitSingletonSlowly.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -83,11 +83,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707225291072</updated>
-      <workItem from="1707225292460" duration="3030000" />
+      <workItem from="1707225292460" duration="3356000" />
     </task>
+    <task id="LOCAL-00001" summary="singleton">
+      <option name="closed" value="true" />
+      <created>1707229346696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229346696</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add item">
+      <option name="closed" value="true" />
+      <created>1707229608118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229608118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="singleton" />
+    <MESSAGE value="add item" />
+    <option name="LAST_COMMIT_MESSAGE" value="add item" />
   </component>
 </project>
