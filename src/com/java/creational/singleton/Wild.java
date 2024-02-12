@@ -1,6 +1,6 @@
 package com.java.creational.singleton;
 
-public class Junior{
+public class Wild {
   public static class Sum {
     public int sum(int a, int b) {
       return a + b;
