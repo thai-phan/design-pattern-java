@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="add factory">
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factory/FreeProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factory/PricedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factory/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factory/Wild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/singleton/Junior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/singleton/Wild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factorymethod/PricedProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factorymethod/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707225291072</updated>
       <workItem from="1707225292460" duration="3373000" />
-      <workItem from="1707743324977" duration="1798000" />
+      <workItem from="1707743324977" duration="2561000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <option name="closed" value="true" />
@@ -130,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707745122335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add factory">
+      <option name="closed" value="true" />
+      <created>1707745139716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707745139716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
