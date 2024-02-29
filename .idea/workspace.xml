@@ -5,8 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="add factory">
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factorymethod/PricedProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/factorymethod/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/FreeProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/ProductOrderCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/ProductOrderCreatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/wild/ProductOrderCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/GraphicsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/GraphicsFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/UbuntuGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/UbuntuGraphicsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/WindowsGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/WindowsGraphicsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/structural/strucccc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/Graphics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c5builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/FreeProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/FreeProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/PricedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/PricedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Wild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/wild/Wild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/FactoryMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/PricedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/PricedProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/ProductOrderCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/wild/Wild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c1singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/singleton/Wild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c1singleton/Wild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +47,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,32 +69,40 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Singleton$LazyInitSingletonSlowly.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Singleton$LazyInitSingletonSlowly.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/thai/sources/design-pattern-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.creational.abstractfactory" />
+      <recent name="com.java.creational.factorymethod" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Singleton$LazyInitSingletonSlowly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.creational.singleton.Singleton$LazyInitSingletonSlowly" />
+    <configuration name="LazyInitSingletonSlowly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.creational.c1singleton.Singleton.LazyInitSingletonSlowly" />
       <module name="design-pattern-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.creational.singleton.*" />
+          <option name="PATTERN" value="com.java.creational.c1singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +116,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,6 +133,7 @@
       <updated>1707225291072</updated>
       <workItem from="1707225292460" duration="3373000" />
       <workItem from="1707743324977" duration="2561000" />
+      <workItem from="1709214282039" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <option name="closed" value="true" />
@@ -157,5 +199,9 @@
     <MESSAGE value="add item" />
     <MESSAGE value="add factory" />
     <option name="LAST_COMMIT_MESSAGE" value="add factory" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

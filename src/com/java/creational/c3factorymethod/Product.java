@@ -1,8 +1,9 @@
-package com.java.creational.factorymethod;
+package com.java.creational.c3factorymethod;
 
 public abstract class Product {
 
   public String name;
+  public long price;
 
   public abstract long getPrice();
 }

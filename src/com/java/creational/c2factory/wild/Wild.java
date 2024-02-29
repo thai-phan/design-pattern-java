@@ -1,4 +1,8 @@
-package com.java.creational.factory;
+package com.java.creational.c2factory.wild;
+
+import com.java.creational.c2factory.FreeProduct;
+import com.java.creational.c2factory.PricedProduct;
+import com.java.creational.c2factory.Product;
 
 public class Wild {
   public static void main(String[] args) {

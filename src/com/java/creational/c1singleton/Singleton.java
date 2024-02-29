@@ -1,6 +1,4 @@
-package com.java.creational.singleton;
-
-import javax.swing.text.StyledEditorKit;
+package com.java.creational.c1singleton;
 
 public class Singleton {
   public static final class EagerSingleton {

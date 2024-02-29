@@ -1,4 +1,4 @@
-package com.java.creational.factorymethod;
+package com.java.creational.c3factorymethod;
 
 public class PricedProduct extends Product {
 

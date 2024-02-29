@@ -1,4 +1,4 @@
-package com.java.creational.factory;
+package com.java.creational.c2factory;
 
 public abstract class Product {
   public String name;

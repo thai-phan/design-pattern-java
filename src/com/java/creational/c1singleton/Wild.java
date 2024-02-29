@@ -1,4 +1,4 @@
-package com.java.creational.singleton;
+package com.java.creational.c1singleton;
 
 public class Wild {
   public static class Sum {
