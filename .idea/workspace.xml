@@ -4,34 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="add factory">
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/FactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/FreeProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/ProductOrderCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/ProductOrderCreatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/wild/ProductOrderCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/GraphicsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/GraphicsFactoryImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/UbuntuGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/UbuntuGraphicsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/WindowsGraphics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/WindowsGraphicsFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/structural/strucccc.java" afterDir="false" />
+    <list default="true" id="733349ee-d4b1-4098-ab89-a5dde6f380af" name="Changes" comment="update factory method">
+      <change afterPath="$PROJECT_DIR$/src/com/java/behavioral/behav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c5builder/DocumentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/creational/c5builder/wild/Builder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c4abstractfactory/Graphics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c5builder/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/FreeProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/FreeProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/PricedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/PricedProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factory/Wild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c2factory/wild/Wild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/FactoryMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/PricedProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/PricedProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/factorymethod/ProductOrderCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c3factorymethod/wild/Wild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c1singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/creational/singleton/Wild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c1singleton/Wild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/creational/c5builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/creational/c5builder/BuilderApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +55,10 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Singleton$LazyInitSingletonSlowly.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -86,12 +69,13 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.creational.c5builder" />
       <recent name="com.java.creational.abstractfactory" />
       <recent name="com.java.creational.factorymethod" />
     </key>
@@ -110,11 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Singleton$LazyInitSingletonSlowly" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -133,7 +112,8 @@
       <updated>1707225291072</updated>
       <workItem from="1707225292460" duration="3373000" />
       <workItem from="1707743324977" duration="2561000" />
-      <workItem from="1709214282039" duration="2564000" />
+      <workItem from="1709214282039" duration="3226000" />
+      <workItem from="1709301916161" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="singleton">
       <option name="closed" value="true" />
@@ -175,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707745139716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update factory method">
+      <option name="closed" value="true" />
+      <created>1709217497908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709217497908</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +186,8 @@
     <MESSAGE value="singleton" />
     <MESSAGE value="add item" />
     <MESSAGE value="add factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add factory" />
+    <MESSAGE value="update factory method" />
+    <option name="LAST_COMMIT_MESSAGE" value="update factory method" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
