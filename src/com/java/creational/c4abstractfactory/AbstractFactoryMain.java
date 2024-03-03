@@ -1,9 +1,7 @@
 package com.java.creational.c4abstractfactory;
 
 
-public class AbstractFactory {
-
-
+public class AbstractFactoryMain {
 
     public static void main(String[] args) {
         final GraphicsFactory graphicsFactory = new GraphicsFactoryImpl();
