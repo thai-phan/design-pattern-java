@@ -1,17 +1,11 @@
 package com.java.behavioral.b1chainofresponsibility;
 
-import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.Collections;
 
-
-
 public class LogMain {
-
-
-
     public static void main(String[] args) throws Exception {
         LogLevel logLevel = LogLevel.LEVEL_ERROR;
         String message = "aaa";
